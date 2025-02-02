@@ -1,4 +1,3 @@
-# MLOpsPipeline
 MLOps Pipeline using Apache Airflow and Python<br/>
 Objective:<br/>
 A wellness app company wants to introduce a new feature to promote healthier screen usage habits. Using historical app usage data, they aim to predict daily screen time for specific apps and send personalized notifications encouraging breaks when the predicted usage is likely to exceed predefined thresholds.<br/>
